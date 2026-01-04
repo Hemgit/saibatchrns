@@ -1,0 +1,56 @@
+Hi, good morning, first of all thank you for giving me this oppertunity.
+I'm sai krishna,
+I have completed MCA in 2014,
+I have total 5.5 years of experience in that relevant experience is 3.5 years in devops with aws.
+initially I started my career as a jr. programmer in sanvi technologies.
+my role was to create online e-books with the use of html and xml coding with implementation of CSS.
+I learned lot of things and I moved as a team leader within short time.
+I served 2 years in that company, later
+I got an oppertunity to work with Thomson reuters in 2017 which is product based company.
+I have been working from 3 and half years.
+
+
+my current project name is Westlaw Next and phoenix.
+in this project we are working on CI/CD process with the help of:
+git, maven, docker, kubernetes, terraform, ansible, jenkins and
+we are using AWS cloud infrastructure with core services VPC, EC2, ALB, Route53, RDS, cloud watch, S3, IAM.
+
+in this project my roles and responsibilities are:
+- monitoring and provisioning the infrastructure
+- managing the git branches
+- ensuring the backup and creating backup policies
+- creating jenkins jobs for deployment
+- implementation of jenkins CI/CD process with the help of groovy scripting
+- implementation of docker files with kubernete deployment files with the help of helm charts (yaml files)
+- implementation of terraform scripts with ansible
+
+
+coming to my daily activities:
+- checking emails and notifications from monitoring system.
+- checking if any critical alerts occur
+- checking scheduled activies
+- interacting with teams and involving in scrum meetings to findout the solutions for issues and to automate the process without any manual intervension).
+- monitoring nagios.
+- monitoring docker and kubernete pods, cloudwatch evnts, alarms,
+- deploying the code on development and production servers
+- checking for proper approvals before the code releases
+- incidents handling
+
+
+yaa, these are all about my roles and daily activities
+
+and actually I am very passionate and curious to learn new things which helps me in my career growth.
+Being a bright student from childhood, I always make sure that I get the concepts first and I try to excel it within short time.
+
+coming to my hobbies are play chess, watching movies, sketching
+yaa, that's all about me.
+
+
+
+
+
+What is 3-tier architecure and how to configure it?
+aws project-2 start to end
+
+CI and CD pipeline?
+pipeline explanation
